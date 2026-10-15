@@ -161,13 +161,13 @@ c:\my_portofolio/
 | Section / Feature | Status | Real Implementation Details |
 | :--- | :--- | :--- |
 | **Personal Identity** | **Done** | Name: Vangala Ramcharan Reddy. Location: Nellore, Andhra Pradesh. Email: ramcharan2154993@gmail.com. |
-| **Social Profiles** | **Partial** | GitHub (`ramcharan2154993`) and LeetCode (`ramcharan_reddy`) are live. LinkedIn is currently a placeholder (`[YOUR_LINKEDIN_PROFILE_URL]`) and safely disabled in the UI until configured. |
+| **Social Profiles** | **Done** | GitHub (`ramcharan2154993`), LeetCode (`ramcharan_reddy`), and LinkedIn (`vangala-ramcharan-reddy-365a0536a`) are live. |
 | **Profile Photo** | **Done** | Configured in `portfolioData.ts` as `/profile.jpg`. Displays with emerald glow ring and hover lift. Has robust fallback to `VR` initials if missing or unconfigured. |
 | **Typography & Theme**| **Done** | Plus Jakarta Sans loaded and active. Dark charcoal canvas `#0b0f14` with ambient emerald glows. |
 | **Hero Section** | **Done** | Complete with floating stat callouts (`9.89 CGPA`, `10/10 Java Distinction`, `DSA in C++`), CTA buttons, and bottom platform pills. |
 | **Education Section** | **Done** | All 3 institutions with dates, degrees, and current semester status (2nd year, 1st semester). |
 | **Achievements** | **Done** | 6 verified academic milestones. Includes working LinkedIn proof link for the 10/10 Java distinction. |
-| **Skills** | **Partial** | Languages (`C, C++, Java, Python`) and Core Focus (`DSA in C++`) are completed. Tools (`[ADD TOOLS]`) and Learning Interests (`[ADD LEARNING INTERESTS]`) are placeholders that render gracefully. |
+| **Skills** | **Done** | Modern Bento Grid layout: Core Specialization (DSA in C++), Programming Languages with role tags, categorized Tools & Development Workflow, and AI/ML Exploration narrative card. |
 | **Projects** | **In Development** | Real projects have not been built yet. The section honestly presents "Projects Coming Soon" with an active development banner and GitHub link. No fabricated projects. |
 | **Contact & Actions** | **Done** | `mailto:` action and clipboard copy button with "Copied" feedback state. |
 | **Build & Lint** | **Passing** | `npm run build` exits with code 0. `oxlint` reports 0 errors and 0 warnings. |

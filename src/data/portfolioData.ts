@@ -64,7 +64,7 @@ export const portfolioData: PortfolioData = {
     location: "Nellore, Andhra Pradesh",
     email: "ramcharan2154993@gmail.com",
     github: "https://github.com/ramcharan2154993",
-    linkedin: "[YOUR_LINKEDIN_PROFILE_URL]",
+    linkedin: "https://www.linkedin.com/in/vangala-ramcharan-reddy-365a0536a/",
     leetcode: "https://leetcode.com/u/ramcharan_reddy/",
     photo: "/profile.jpg",
     photoAlt: "Photo of Vangala Ramcharan Reddy",
@@ -73,8 +73,8 @@ export const portfolioData: PortfolioData = {
   skills: {
     programmingLanguages: ["C", "C++", "Java", "Python"],
     coreFocus: ["DSA in C++"],
-    learningInterests: ["[ADD LEARNING INTERESTS]"],
-    tools: ["[ADD TOOLS]"],
+    learningInterests: ["Exploring Artificial Intelligence and Machine Learning, with a keen interest in intelligent systems, data-driven problem-solving, and emerging AI technologies. Continuously expanding my knowledge of software engineering, algorithms, and modern development practices to build impactful, real-world solutions."],
+    tools: ["Development Environment: Visual Studio Code, Google Antigravity", "Version Control: Git, GitHub", "Programming & Problem-Solving: C++, Java, Python", "Web Development: HTML, CSS, JavaScript, React", "AI-Assisted Development: Gemini, Claude", "Currently Exploring: AI/ML frameworks, modern development workflows, and machine learning tools"],
   },
 
   education: [
